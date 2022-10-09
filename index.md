@@ -34,3 +34,12 @@ Notice the colorized syntax highlighting, nice eh?
 - [ ] Start learning GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce the World to Me
+
+### Show off some colors?
+This be some color blocks, no?
+`#884422`
+`#AA4488`
+Or not  
+But I can do Section Heading links  
+Go back to [Top](#huge-graphic)  
+Or to the [Example Code](#example-code)
